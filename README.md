@@ -48,6 +48,3 @@ I'm a senior software engineering student in Yasar University and i am a backend
 🎓 Community: Huawei Student Developers (HSD) Core Team and Technical Committee Member @ Yasar University.
 
 
-## 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aanilince&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
