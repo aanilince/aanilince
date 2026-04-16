@@ -2,15 +2,6 @@
 Hey there,
 I'm a senior software engineering student in Yasar University and i am a backend & cloud Enthusiast. I specialize in building scalable systems, microservices architectures, and managing cloud infrastructure. Currently developing a marketplace for in-game currencies.
 
-## What I work with:
-
-**Cloud & DevOps: Google Cloud Platform (GKE, Cloud Run, Cloud Functions), Terraform, Docker**<br>
-
-**Backend: Go (Gin), Node.js, Java, .NET** <br>
-
-**Frontend: TailwindCSS, React** <br>
-
-**Tools & CI/CD: GitHub Actions, Gcloud Build, Nx Monorepo**<br>
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br>
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣽⣍⣉⠙⠒⠤⢤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br>
@@ -21,9 +12,9 @@ I'm a senior software engineering student in Yasar University and i am a backend
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⡀⢀⠀⢃⠀⡘⠠⠘⠀⡀⠄⠃⠠⠀⡘⠀⡀⠃⡘⠠⠀⡀⠀⠘⠛⠿⢿⣤⣤⣀⠀⠛⠣⠤⣀⡀⠀⠀⠀⠀⠀⠀<br>
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠄⠂⢀⠂⠀⠄⠐⡀⠁⠠⠐⠈⡀⠐⡀⠐⡀⠐⡀⠄⠡⢀⠡⠈⠄⠠⠀⠄⠉⡙⠛⠷⢶⣤⣄⣈⠉⠒⠢⠤⣀⡀<br>
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠂⡈⠀⠄⠁⡐⠠⠀⠌⢀⠂⢁⠀⢂⠀⡁⢀⠂⠄⠠⠁⠄⠠⠁⠌⠠⢁⠈⡐⠀⠌⡐⠂⢌⠩⢙⠛⠷⣶⡄⢀⡇<br>
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠃⠀⠌⢀⠂⠠⠐⠀⢂⠠⠐⠀⡈⠀⠄⠐⡀⠄⠈⠄⠂⡈⠐⢈⠠⠁⣀⠢⠐⡉⠔⡠⠉⢄⢂⠂⠌⠂⣿⡇⠀⡇<br>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠃⠀⠌⢀⠂⠠⠐⠀⢂⠠⠐⠀a⠀n⠐i⠄l⠄⠂⡈⢀⠐⠠⠁⣀⠢⠐⢀⡉⠔⢀⡠⠉⢄⢂⠂⠌⠂⣿⡇⠀⡇<br>
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠃⢈⠠⠀⠄⢁⠠⠁⠠⠀⠂⢁⠠⠈⢀⠂⠠⢀⠁⢂⠐⠀⢡⠀⠢⠡⠄⠢⠡⠌⡐⠄⡉⠄⢊⠐⡈⠁⣿⡇⠀⡇<br>
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⡃⠀⠄⠂⢈⠀⠄⠂⠁⠄⠡⠀⠄⡈⠀⠄⡁⢀⠂⠄⠢⠉⠤⢈⠡⢂⠡⠁⠆⠡⠐⡈⠐⡈⠄⡡⢀⠁⣿⡇⠀⡇<br>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⡃⠀⠄⠂⢈⠀⠄⠂⠁⠄⠡⠀⠄⡈⠀i⡁n⠂c⠢e⠤⢀⢈⠡⢂⠡⠁⠆⠡⠐⡈⠐⡈⠄⡡⢀⠁⣿⡇⠀⡇<br>
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⡄⠈⠠⠈⡀⠄⠂⠈⠄⠂⠐⠈⡀⠄⠁⢄⠰⢀⠩⠠⠡⢈⠰⠈⡐⠠⠈⠌⡠⠡⠁⠄⠡⠐⡀⠆⡀⠂⣿⡇⠀⡇<br>
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⠆⠀⠡⠐⠀⡐⠈⡀⠂⠌⢀⠁⠠⢂⠉⡀⠢⠈⠄⡁⠢⠈⠄⠡⠠⠡⠈⠔⠠⠁⠌⠠⢁⠡⠐⠠⢀⠁⣾⡇⠀⡇<br>
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣇⣈⠀⠂⢁⠠⠐⢀⡐⠠⠈⠄⡁⢂⠐⠠⠁⠌⡐⠠⠁⠌⠠⢁⠂⠡⠈⠄⠡⠈⠄⠡⢀⠂⢁⠂⠄⠂⣽⡇⠀⡇<br>
@@ -43,8 +34,16 @@ I'm a senior software engineering student in Yasar University and i am a backend
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠛⠻⠷⠶⠶⠾⠟⠛⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br>
 <br>
 
+## What I work with:
 
+**Cloud & DevOps: Google Cloud Platform (GKE, Cloud Run, Cloud Functions), Terraform, Docker**<br>
 
-🎓 Community: Huawei Student Developers (HSD) Core Team and Technical Committee Member @ Yasar University.
+**Backend: Go (Gin), Node.js, Java, .NET** <br>
+
+**Frontend: TailwindCSS, React** <br>
+
+**Tools & CI/CD: GitHub Actions, Gcloud Build, Nx Monorepo**<br>
+
+**Community: Huawei Student Developers (HSD) Core Team and Technical Committee Member @ Yasar University.**<br>
 
 
