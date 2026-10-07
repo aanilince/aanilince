@@ -31,7 +31,7 @@
 
 # About Me:
 Hey there,
-I'm a senior software engineering student in Yasar University and i am a backend & cloud Enthusiast. I specialize in building scalable systems, microservices architectures, and managing cloud infrastructure. Currently developing a marketplace for in-game currencies.
+I'm a software engineer mainly working on backend & cloud infrastructures. I specialize in building scalable systems, microservices architectures, and managing cloud infrastructure. Currently developing a marketplace for in-game currencies.
 
 ## What I work with:
 
